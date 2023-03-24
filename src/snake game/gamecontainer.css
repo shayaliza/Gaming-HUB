@@ -1,0 +1,20 @@
+.main-game-container {
+  /* position: absolute; */
+  left: 0;
+  right: 0;
+  top: 2rem;
+  bottom: 0;
+  background-color: gray;
+  color: white;
+}
+
+.innergamecontainer {
+  width: 500px;
+  margin: auto;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.game-tile {
+  width: 26px;
+}

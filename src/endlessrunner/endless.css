@@ -1,0 +1,24 @@
+.Appi {
+  position: relative;
+  /* width: 500px; */
+  /* height: 500px; */
+  /* width: 100vw; */
+  /* height: 100vh; */
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.player {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  top: 250px;
+}
+
+.obstacle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: blue;
+}
